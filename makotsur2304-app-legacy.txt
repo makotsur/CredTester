@@ -2,3 +2,8 @@
 "AadSecret": "cd48Q~18DcmMylMnpDUabgBWry4wd_b1J8u_latK",
 "AadTenantDomain": "makotsur2304.onmicrosoft.com",
 "AadTenantId": "0febc981-41cf-4bb2-9bd8-d09ebf3b5a3e",
+
+"MicrosoftEntraClientId": "79a6590b-c2db-45e8-a560-b7bdf81ff542",
+"MicrosoftEntraSecret": "cd48Q~18DcmMylMnpDUabgBWry4wd_b1J8u_latK",
+"MicrosoftEntraTenantDomain": "makotsur2304.onmicrosoft.com",
+"MicrosoftEntraTenantId": "0febc981-41cf-4bb2-9bd8-d09ebf3b5a3e",
