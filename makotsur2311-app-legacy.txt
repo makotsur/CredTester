@@ -1,0 +1,4 @@
+"AadClientId": "acce21f4-3289-464f-b62e-f63b1e3fc37f",
+"AadSecret": "tcj8Q~VyRpmeJXMGEmmw~tRzXqDE1PV5PC3pwbvr",
+"AadTenantDomain": "makotsur2311.onmicrosoft.com",
+"AadTenantId": "17c2ce8e-ab71-46fa-81ae-097551f3b9f3",
